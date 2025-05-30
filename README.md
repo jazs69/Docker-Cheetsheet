@@ -1,6 +1,6 @@
 # Docker CheatSheet 🚢
 
-Welcome to the interactive Docker CheatSheet! Expand sections below to view common Docker commands and explanations.
+Welcome to the Docker CheatSheet! Expand sections below to view common Docker commands and explanations.
 
 <details>
 <summary>🔹 Docker Basics</summary>
